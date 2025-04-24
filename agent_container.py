@@ -77,7 +77,7 @@ def register_with_core_system():
     """Register this agent with the core system"""
     try:
         response = requests.post(
-            f"{CORE_API_URL}/api/agents/register",
+            f"{CORE_API_URL}/agents/register",
             json={
                 "agent_id": AGENT_ID,
                 "name": AGENT_NAME,
@@ -100,7 +100,8 @@ def process_messages():
     try:
         # Check for pending messages using the API for containerized agents
         response = requests.get(
-            f"{CORE_API_URL}/api/agents/{AGENT_ID}/messages/pending"
+            f"{CORE_API_URL}/messages/pending",
+            params={"agent_id": AGENT_ID}
         )
         
         if response.status_code == 200:
@@ -122,7 +123,7 @@ def subscribe_to_events():
     try:
         # Register for new message events with direct message delivery
         response = requests.post(
-            f"{CORE_API_URL}/api/agents/subscribe",
+            f"{CORE_API_URL}/agents/subscribe",
             json={
                 "agent_id": AGENT_ID,
                 "name": AGENT_NAME,
@@ -170,7 +171,7 @@ def process_message(message):
         # First phase: Register interest with the event-driven system
         # This corresponds to the AgentInterestService in the core system
         interest_response = requests.post(
-            f"{CORE_API_URL}/api/messages/{message['id']}/interest",
+            f"{CORE_API_URL}/messages/{message['id']}/interest",
             json={
                 "agent_id": AGENT_ID,
                 "name": AGENT_NAME,
@@ -191,7 +192,7 @@ def process_message(message):
                 
                 # Submit processing result to core system
                 process_response = requests.post(
-                    f"{CORE_API_URL}/api/messages/{message['id']}/process",
+                    f"{CORE_API_URL}/messages/{message['id']}/process",
                     json={
                         "agent_id": AGENT_ID,
                         "result": result
