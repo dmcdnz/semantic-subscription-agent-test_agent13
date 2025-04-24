@@ -100,8 +100,7 @@ def process_messages():
     try:
         # Check for pending messages using the API for containerized agents
         response = requests.get(
-            f"{CORE_API_URL}/api/messages/pending",
-            params={"agent_id": AGENT_ID}
+            f"{CORE_API_URL}/api/agents/{AGENT_ID}/messages/pending"
         )
         
         if response.status_code == 200:
