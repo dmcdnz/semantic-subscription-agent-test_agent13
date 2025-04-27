@@ -1,11 +1,28 @@
 {
-  "agent_type": "semantic_subscription_agent_test_agent13",
-  "base_model": "all-MiniLM-L6-v2",
+  "agent_type": "semantic-subscription-agent-test_agent13",
+  "base_model": "sentence-transformers/all-MiniLM-L6-v2",
   "embedding_dim": 384,
-  "train_examples": 1465,
-  "val_examples": 1465,
+  "train_examples": 2344,
+  "val_examples": 586,
   "positive_examples": 1474,
   "negative_examples": 1456,
-  "best_val_f1": 0.8632010943912448,
-  "created_at": "2025-04-24T06:39:41.383185"
+  "best_val_metric": 0.7845117845117845,
+  "optimized_metric": "f1",
+  "created_at": "2025-04-27T16:18:38.454358",
+  "training_params": {
+    "batch_size": 16,
+    "epochs": 3,
+    "learning_rate": 5e-05,
+    "validation_split": 0.2,
+    "classification_threshold": 0.5000000000000001,
+    "optimize_threshold": true,
+    "metric_to_optimize": "f1",
+    "max_sequence_length": 128,
+    "warmup_steps": 3,
+    "weight_decay": 0.01,
+    "dropout_rate": 0.1,
+    "mixed_precision_fp16": true,
+    "early_stopping_enabled": true,
+    "early_stopping_patience": 2
+  }
 }
