@@ -1,0 +1,144 @@
+{"text": "What's the weather like today?", "category": "Weather", "label": 1}
+{"text": "Can you recommend a good Italian restaurant nearby?", "category": "Food & Dining", "label": 1}
+{"text": "How do I reset my email password?", "category": "Technical Support", "label": 1}
+{"text": "Tell me a joke.", "category": "Entertainment", "label": 1}
+{"text": "What is the capital of France?", "category": "Geography", "label": 1}
+{"text": "Who won the Nobel Peace Prize in 2020?", "category": "History & Awards", "label": 1}
+{"text": "Help me plan a trip to Japan for two weeks.", "category": "Travel Planning", "label": 1}
+{"text": "What are some effective strategies for managing stress?", "category": "Health & Wellness", "label": 1}
+{"text": "Can you give me the latest news headlines?", "category": "News & Current Events", "label": 1}
+{"text": "Define the word 'ephemeral'.", "category": "Dictionary & Definitions", "label": 1}
+{"text": "What's the best way to learn Python programming?", "category": "Education & Learning", "label": 1}
+{"text": "What's the current stock price of Apple?", "category": "Finance & Stocks", "label": 1}
+{"text": "How do I bake a chocolate cake from scratch?", "category": "Cooking & Recipes", "label": 1}
+{"text": "Explain the theory of relativity in simple terms.", "category": "Science & Education", "label": 1}
+{"text": "Can you help me find a good gift for a 10-year-old boy?", "category": "Shopping & Gifts", "label": 1}
+{"text": "What are the symptoms of the flu?", "category": "Health & Medicine", "label": 1}
+{"text": "Tell me about the history of the Roman Empire.", "category": "History", "label": 1}
+{"text": "How do I set up a new Wi-Fi router?", "category": "Technical Support", "label": 1}
+{"text": "What's the meaning of life?", "category": "Philosophy & Reflection", "label": 1}
+{"text": "Can you translate 'Good morning' into Spanish?", "category": "Language & Translation", "label": 1}
+{"text": "What movies are playing nearby this weekend?", "category": "Entertainment", "label": 1}
+{"text": "How do I start meditation?", "category": "Health & Wellness", "label": 1}
+{"text": "What are the benefits of drinking green tea?", "category": "Health & Wellness", "label": 1}
+{"text": "Create a workout plan for a beginner looking to lose weight.", "category": "Fitness & Exercise", "label": 1}
+{"text": "What is the process for applying for a visa to Canada?", "category": "Travel & Immigration", "label": 1}
+{"text": "Tell me a fun fact about space.", "category": "Science & Education", "label": 1}
+{"text": "How do I troubleshoot Wi-Fi connectivity issues?", "category": "Technical Support", "label": 1}
+{"text": "What are some popular tourist attractions in New York City?", "category": "Travel & Tourism", "label": 1}
+{"text": "Can you help me write a cover letter for a job application?", "category": "Career & Job Search", "label": 1}
+{"text": "What is the nutritional value of an avocado?", "category": "Health & Food", "label": 1}
+{"text": "How can I improve my public speaking skills?", "category": "Self-Development", "label": 1}
+{"text": "What are the latest trends in renewable energy?", "category": "Environment & Science", "label": 1}
+{"text": "Help me find a good hotel in Paris for a romantic weekend.", "category": "Travel & Accommodation", "label": 1}
+{"text": "What is the process of photosynthesis?", "category": "Science & Education", "label": 1}
+{"text": "Can you suggest some movies similar to Inception?", "category": "Entertainment", "label": 1}
+{"text": "How do I get started with investing in cryptocurrency?", "category": "Finance & Investment", "label": 1}
+{"text": "What are the top-rated books on personal finance?", "category": "Books & Literature", "label": 1}
+{"text": "Explain how to set up a home network securely.", "category": "Technical Support", "label": 1}
+{"text": "What is the history behind the Eiffel Tower?", "category": "History & Landmarks", "label": 1}
+{"text": "How do I change the oil in my car?", "category": "Automotive", "label": 1}
+{"text": "What are some effective ways to study for exams?", "category": "Education & Learning", "label": 1}
+{"text": "Tell me about the different types of renewable energy sources.", "category": "Science & Environment", "label": 1}
+{"text": "Can you give me a summary of the novel 'Pride and Prejudice'?", "category": "Books & Literature", "label": 1}
+{"text": "What steps should I take to start a small business?", "category": "Business & Entrepreneurship", "label": 1}
+{"text": "How do I clean and maintain my smartphone?", "category": "Technical Support", "label": 1}
+{"text": "What are some popular workout routines for building muscle?", "category": "Fitness & Exercise", "label": 1}
+{"text": "Can you tell me how to get a passport?", "category": "Travel & Documentation", "label": 1}
+{"text": "What are common signs of anxiety?", "category": "Health & Medicine", "label": 1}
+{"text": "Help me understand the basics of quantum computing.", "category": "Science & Technology", "label": 1}
+{"text": "What are some good strategies for saving money?", "category": "Finance & Personal Finance", "label": 1}
+{"text": "Describe the process of making homemade bread.", "category": "Cooking & Recipes", "label": 1}
+{"text": "What are the main differences between Android and iOS?", "category": "Technology & Devices", "label": 1}
+{"text": "Can you suggest some family-friendly activities for the weekend?", "category": "Family & Leisure", "label": 1}
+{"text": "How do I troubleshoot a frozen computer?", "category": "Technical Support", "label": 1}
+{"text": "What are the latest advancements in artificial intelligence?", "category": "Science & Technology", "label": 1}
+{"text": "Help me find a nearby veterinarian for my pet.", "category": "Health & Pets", "label": 1}
+{"text": "The Eiffel Tower is located in Paris, France, and was completed in 1889 for the Exposition Universelle.", "category": "geography", "label": 0}
+{"text": "To reset your password on most websites, click on the 'Forgot Password' link, enter your registered email address, and follow the instructions sent to your email.", "category": "tech", "label": 0}
+{"text": "Regular exercise can improve cardiovascular health, boost mood, and support weight management. Aim for at least 150 minutes of moderate activity weekly.", "category": "health", "label": 0}
+{"text": "The capital of Japan is Tokyo, which is known for its modern skyline, historic temples, and vibrant culture.", "category": "geography", "label": 0}
+{"text": "To cook pasta al dente, boil water with salt, add the pasta, and cook for the time specified on the package, usually 8-10 minutes. Drain and serve.", "category": "cooking", "label": 0}
+{"text": "If you want to improve your photography skills, consider learning about composition rules like the rule of thirds, practicing regularly, and studying the work of professional photographers.", "category": "hobbies", "label": 0}
+{"text": "The Python programming language is widely used for web development, data analysis, artificial intelligence, and automation. Here's a simple example of a Python script that prints 'Hello, world!':\n\n```python\nprint('Hello, world!')\n```", "category": "tech", "label": 0}
+{"text": "Maintaining a balanced diet involves consuming a variety of foods from all food groups, including fruits, vegetables, lean proteins, whole grains, and dairy.", "category": "health", "label": 0}
+{"text": "The process of photosynthesis involves plants converting sunlight into chemical energy, using carbon dioxide and water to produce glucose and oxygen.", "category": "science", "label": 0}
+{"text": "To change a flat tire, first secure the vehicle, loosen the lug nuts, lift the car with a jack, remove the flat tire, mount the spare, tighten the lug nuts, and carefully lower the car.", "category": "how-to", "label": 0}
+{"text": "Mercury is the closest planet to the Sun in our solar system and has a very thin atmosphere. It experiences extreme temperature variations between day and night.", "category": "science", "label": 0}
+{"text": "The Great Wall of China stretches over 13,000 miles and was built over several dynasties to protect against invasions from nomadic tribes.", "category": "history", "label": 0}
+{"text": "A balanced budget is achieved when your total income equals your total expenses, preventing debt accumulation and ensuring financial stability.", "category": "finance", "label": 0}
+{"text": "In Spanish, 'hello' is translated as 'hola'. It's a common greeting used in many Spanish-speaking countries.", "category": "languages", "label": 0}
+{"text": "The process of installing a new kitchen faucet involves turning off the water supply, removing the old faucet, applying plumber's tape to the threads, and attaching the new unit securely.", "category": "how-to", "label": 0}
+{"text": "Many smartphones now include features like facial recognition, fingerprint sensors, and AI-based camera enhancements to improve user experience.", "category": "tech", "label": 0}
+{"text": "To reduce stress, try techniques such as deep breathing, meditation, regular exercise, and maintaining a healthy sleep schedule.", "category": "health", "label": 0}
+{"text": "The Mona Lisa, painted by Leonardo da Vinci, is one of the most famous artworks in the world and is displayed in the Louvre Museum in Paris.", "category": "art", "label": 0}
+{"text": "In economics, supply and demand determine the price of goods and services in a free market. When demand exceeds supply, prices tend to rise, and vice versa.", "category": "economics", "label": 0}
+{"text": "A standard USB Type-C cable can be used for charging devices and transferring data between compatible equipment.", "category": "tech", "label": 0}
+{"text": "The human heart beats approximately 100,000 times a day, pumping about 2,000 gallons of blood through the body.", "category": "health", "label": 0}
+{"text": "To start learning guitar, you should familiarize yourself with the instrument's parts, learn basic chords, and practice regularly to develop finger strength and dexterity.", "category": "hobbies", "label": 0}
+{"text": "Mount Everest is the highest mountain on Earth's surface, standing at 8,848.86 meters (29,031.7 feet) above sea level.", "category": "geography", "label": 0}
+{"text": "The theory of relativity, proposed by Albert Einstein, revolutionized our understanding of gravity, space, and time.", "category": "science", "label": 0}
+{"text": "To create a strong password, use a mix of uppercase and lowercase letters, numbers, and special characters. Avoid using easily guessable information like birthdays.", "category": "tech", "label": 0}
+{"text": "The Pacific Ocean is the largest and deepest ocean on Earth, covering approximately 63 million square miles.", "category": "geography", "label": 0}
+{"text": "Eating an orange provides a good source of vitamin C, which supports immune function and skin health.", "category": "health", "label": 0}
+{"text": "If you're interested in starting a garden, choose a suitable location with adequate sunlight, prepare the soil, select appropriate plants, and water regularly.", "category": "hobbies", "label": 0}
+{"text": "The stock market can be volatile; it's important to diversify your investments and have a long-term perspective to manage risks.", "category": "finance", "label": 0}
+{"text": "The chemical formula for water is H\u2082O, indicating it consists of two hydrogen atoms bonded to one oxygen atom.", "category": "science", "label": 0}
+{"text": "To improve your public speaking skills, practice in front of a mirror or friends, record your speeches to evaluate your performance, and work on your confidence.", "category": "skills", "label": 0}
+{"text": "The Amazon rainforest is the largest tropical rainforest in the world, spanning over 5.5 million square kilometers across nine countries.", "category": "geography", "label": 0}
+{"text": "In programming, an array is a data structure that stores a collection of elements, typically of the same type, in a contiguous block of memory.", "category": "tech", "label": 0}
+{"text": "Breathing exercises like diaphragmatic breathing can help reduce anxiety and improve overall respiratory function.", "category": "health", "label": 0}
+{"text": "The Periodic Table organizes all known chemical elements based on their atomic number, electron configurations, and recurring chemical properties.", "category": "science", "label": 0}
+{"text": "To set up a new email account, choose an email provider, fill out the registration form, verify your identity if required, and log in to start sending emails.", "category": "tech", "label": 0}
+{"text": "The Taj Mahal is a UNESCO World Heritage Site located in Agra, India. It was built in the 17th century as a mausoleum for Mumtaz Mahal.", "category": "history", "label": 0}
+{"text": "A good way to stay organized is to use digital calendars, to-do lists, and set reminders for important deadlines.", "category": "productivity", "label": 0}
+{"text": "Dark chocolate contains higher levels of cocoa solids and antioxidants compared to milk chocolate, and consuming it in moderation can have health benefits.", "category": "health", "label": 0}
+{"text": "The Internet of Things (IoT) refers to interconnected devices that can communicate and exchange data, like smart thermostats, wearables, and home security systems.", "category": "tech", "label": 0}
+{"text": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides: a\u00b2 + b\u00b2 = c\u00b2.", "category": "math", "label": 0}
+{"text": "To plan a trip abroad, check your passport's validity, research visa requirements, book accommodations and transportation in advance, and learn some basic phrases of the local language.", "category": "travel", "label": 0}
+{"text": "Climate change refers to long-term shifts in temperature, precipitation, and weather patterns largely driven by human activities such as burning fossil fuels.", "category": "science", "label": 0}
+{"text": "You can improve your writing skills by reading widely, practicing regularly, and seeking feedback from others.", "category": "skills", "label": 0}
+{"text": "The solar eclipse occurs when the Moon passes between the Earth and the Sun, temporarily blocking out the Sun's light in certain areas.", "category": "astronomy", "label": 0}
+{"text": "To learn a new language effectively, immerse yourself in the language through media, practice speaking regularly, and use language learning apps or classes.", "category": "languages", "label": 0}
+{"text": "In accounting, a balance sheet provides a snapshot of a company's financial position at a specific point in time, listing assets, liabilities, and equity.", "category": "finance", "label": 0}
+{"text": "Mount Kilimanjaro is Africa's highest peak, standing at 5,895 meters (19,341 feet). It is a dormant volcano located in Tanzania.", "category": "geography", "label": 0}
+{"text": "A healthy sleep schedule typically involves going to bed and waking up at consistent times, aiming for 7-9 hours of sleep per night.", "category": "health", "label": 0}
+{"text": "To troubleshoot Wi-Fi connectivity issues, restart your router, check for service outages, move closer to the router, or update your device's network drivers.", "category": "tech", "label": 0}
+{"text": "The human brain contains approximately 86 billion neurons, which communicate via synapses to regulate bodily functions and enable thought processes.", "category": "science", "label": 0}
+{"text": "A manual coffee grinder allows you to grind beans to your preferred size, often resulting in better flavor compared to pre-ground coffee.", "category": "hobbies", "label": 0}
+{"text": "The Louvre Museum in Paris is home to thousands of works of art, including the Mona Lisa, the Venus de Milo, and countless other masterpieces.", "category": "art", "label": 0}
+{"text": "To improve your diet, focus on whole foods, limit processed items, and incorporate more fruits and vegetables into your meals.", "category": "health", "label": 0}
+{"text": "In computer science, an algorithm is a step-by-step procedure for solving a problem or performing a task.", "category": "tech", "label": 0}
+{"text": "The Amazon River is approximately 4,345 miles long, making it one of the longest rivers in the world, flowing across northern South America.", "category": "geography", "label": 0}
+{"text": "Getting started with meditation can be simple: find a quiet space, sit comfortably, focus on your breath, and gently bring your attention back when it wanders.", "category": "health", "label": 0}
+{"text": "The Cold War was a period of geopolitical tension between the Soviet Union and the United States and their respective allies after World War II.", "category": "history", "label": 0}
+{"text": "To prevent identity theft, avoid sharing personal information online, use strong passwords, and regularly monitor your financial statements.", "category": "tech", "label": 0}
+{"text": "The process of boiling water involves heating it until it reaches 100\u00b0C (212\u00b0F) at sea level, causing it to vaporize into steam.", "category": "science", "label": 0}
+{"text": "The process of photosynthesis is vital for life on Earth, as it produces oxygen and forms the base of the food chain for most ecosystems.", "category": "science", "label": 0}
+{"text": "In terms of digital marketing, SEO (Search Engine Optimization) involves optimizing your website content to rank higher in search engine results.", "category": "tech", "label": 0}
+{"text": "To stay physically active, find activities you enjoy, set achievable goals, and incorporate movement into your daily routine.", "category": "health", "label": 0}
+{"text": "The Statue of Liberty was a gift from France to the United States, dedicated in 1886, and symbolizes freedom and democracy.", "category": "history", "label": 0}
+{"text": "A typical beginner piano lesson might include learning about the keyboard layout, basic scales, and simple melodies.", "category": "hobbies", "label": 0}
+{"text": "The Milky Way galaxy contains over 100 billion stars and is just one of countless galaxies in the universe.", "category": "astronomy", "label": 0}
+{"text": "In chemistry, acids are substances that release hydrogen ions (H\u207a) in solution, while bases release hydroxide ions (OH\u207b).", "category": "science", "label": 0}
+{"text": "To improve your public speaking skills, practice in front of a mirror, record yourself, and seek constructive feedback from others.", "category": "skills", "label": 0}
+{"text": "The Sahara Desert is the largest hot desert in the world, covering much of North Africa and extending over 3.6 million square miles.", "category": "geography", "label": 0}
+{"text": "The ketogenic diet is a high-fat, low-carbohydrate diet that aims to induce a state of ketosis, where the body burns fat for fuel.", "category": "health", "label": 0}
+{"text": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health.", "category": "health", "label": 0}
+{"text": "To set up a Wi-Fi network securely, change the default password, enable network encryption such as WPA3, and disable remote management features.", "category": "tech", "label": 0}
+{"text": "The Sun's core reaches temperatures of around 15 million degrees Celsius, facilitating nuclear fusion that powers the Sun.", "category": "science", "label": 0}
+{"text": "The Taj Mahal's intricate marble inlay work is a masterpiece of Mughal art, featuring semi-precious stones arranged in floral and geometric patterns.", "category": "art", "label": 0}
+{"text": "Effective time management involves prioritizing tasks, setting goals, and avoiding procrastination by breaking large projects into smaller steps.", "category": "productivity", "label": 0}
+{"text": "Dark energy is a mysterious force that is believed to make up about 68% of the universe and is driving its accelerated expansion.", "category": "science", "label": 0}
+{"text": "To find a isosceles triangle with a given perimeter, set the two equal sides as x, and solve the equation 2x + base = perimeter for x, considering the base length.", "category": "math", "label": 0}
+{"text": "Travel insurance can protect you against unforeseen events such as trip cancellations, medical emergencies, or lost luggage. It's advisable to purchase coverage before your trip.", "category": "travel", "label": 0}
+{"text": "What's the weather like today?", "category": "Weather Inquiry", "label": 1}
+{"text": "Can you help me find a good Italian restaurant nearby?", "category": "Location-Based Service", "label": 1}
+{"text": "Explain the theory of relativity in simple terms.", "category": "Educational Inquiry", "label": 1}
+{"text": "Tell me a joke.", "category": "Entertainment", "label": 1}
+{"text": "I'm feeling anxious and overwhelmed. What are some techniques to manage stress?", "category": "Health & Wellness", "label": 1}
+{"text": "The Great Wall of China stretches over 13,000 miles and was built primarily to protect Chinese states from invasions by nomadic tribes.", "category": "history", "label": 0}
+{"text": "To reset your password on most online platforms, click on 'Forgot Password?' on the login page, enter your registered email address, and follow the instructions sent to your email. If you don't receive the email, check your spam folder or contact support.", "category": "tech", "label": 0}
+{"text": "Maintaining a balanced diet involves incorporating a variety of food groups, including fruits, vegetables, lean proteins, whole grains, and healthy fats. It's also important to limit processed foods, sugary drinks, and excessive salt intake. Drinking plenty of water and exercising regularly can further enhance your overall health.", "category": "health", "label": 0}
+{"text": "Here's a simple Python script to fetch the current weather data from the OpenWeatherMap API:\n\n```python\nimport requests\n\nAPI_KEY = 'your_api_key'\nCITY = 'London'\nurl = f'http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric'\n\nresponse = requests.get(url)\nif response.status_code == 200:\n    weather_data = response.json()\n    print(f\"Temperature in {CITY}: {weather_data['main']['temp']}\u00b0C\")\nelse:\n    print('Error fetching weather data')\n```\nReplace `'your_api_key'` with your actual API key.", "category": "tech", "label": 0}
+{"text": "If you're planning to start a meditation practice, here are some steps to get you going:\n1. Find a quiet and comfortable space.\n2. Set a specific time each day for meditation.\n3. Sit in a relaxed but upright position.\n4. Close your eyes and focus on your breath.\n5. When your mind wanders, gently bring your attention back to your breathing.\n6. Start with 5-10 minutes daily and gradually increase the duration.\nRemember, consistency is key, and it's normal for your mind to wander initially.", "category": "how-to", "label": 0}
